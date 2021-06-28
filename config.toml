@@ -1,11 +1,12 @@
 baseURL = "http://Tyaba.github.io/"
-publishDir = 'content'
+contentDir = 'content'
 languageCode = "ja"
 title = "Tyaba"
 logoHomeLink = "/"
 themesDir = "themes"
 theme = "m10c"
 paginate = 8
+
 
 [menu]
   [[menu.main]]
