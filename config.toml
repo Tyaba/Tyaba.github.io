@@ -1,8 +1,8 @@
-baseURL = "http://Tyaba.github.io/mypage"
+baseURL = "http://Tyaba.github.io/"
 publishDir = 'docs'
 languageCode = "jp"
 title = "Tyaba"
-logoHomeLink = "/mypage"
+logoHomeLink = "/"
 themesDir = "themes"
 theme = "m10c"
 paginate = 8
@@ -11,22 +11,22 @@ paginate = 8
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/mypage"
+    url = "/"
     weight = 1
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/mypage/about"
+    url = "/about"
     weight = 2
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "/mypage/posts/"
+    url = "/posts/"
     weight = 3
   [[menu.main]]
     identifier = "chatbot"
     name = "Chatbot"
-    url = "/mypage/chatbot"
+    url = "/chatbot"
     weight = 4
 
 [params]
