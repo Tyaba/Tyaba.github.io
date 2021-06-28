@@ -1,6 +1,6 @@
 baseURL = "http://Tyaba.github.io/"
-publishDir = 'docs'
-languageCode = "jp"
+publishDir = 'content'
+languageCode = "ja"
 title = "Tyaba"
 logoHomeLink = "/"
 themesDir = "themes"
