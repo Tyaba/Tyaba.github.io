@@ -1,5 +1,5 @@
 baseURL = "http://Tyaba.github.io/"
-contentDir = 'content'
+contentDir = "content"
 languageCode = "ja"
 title = "Tyaba"
 logoHomeLink = "/"
