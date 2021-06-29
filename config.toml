@@ -1,4 +1,4 @@
-baseURL = "http://Tyaba.github.io/"
+baseURL = "http://tyaba.github.io/"
 contentDir = "content"
 languageCode = "ja"
 title = "Tyaba"
